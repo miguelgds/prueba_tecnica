@@ -12,10 +12,8 @@ Para allá se ha desplazado nuestro analista funcional, y estas son las conclusi
 Como todos nuestros empleados saben estos son, de mayor a menor importancia, nuestros valores como empresa:
 1) Desarrollamos modelos de dominio expresivos.
 2) Nos encanta el paradigma orientado a objetos bien aplicado.
-3) No nos gusta la programación imperativa.
-4) Entregamos proyectos que cumplen los requisitos del cliente.
-5) Entregamos proyectos en los plazos establecidos.
-6) Entregamos un código testeado.
+3) Entregamos proyectos que cumplen los requisitos del cliente.
+4) Entregamos un código testeado.
 
 # Requisitos de la prueba
 1) Se ha establecido un tiempo máximo de 2,5 horas para su realización.
